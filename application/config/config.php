@@ -30,7 +30,7 @@ $config['base_url'] = $root;
 
 /*
 |--------------------------------------------------------------------------
-| Index File
+| Index File saya nambah tulisan
 |--------------------------------------------------------------------------
 |
 | Typically this will be your index.php file, unless you've renamed it to
