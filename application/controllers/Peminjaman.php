@@ -113,3 +113,5 @@ class Peminjaman extends CI_Controller{
 		redirect(base_url('admin/peminjaman'));
 	}
 }
+
+// hari ini saya sydah selesai peminjaman.. tapi masih error

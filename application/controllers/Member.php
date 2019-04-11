@@ -16,5 +16,9 @@ class Member extends CI_Controller{
 		$data['buku'] = $this->M_perpus->get_data('buku')->result();
 		$data['header'] = 'Katalog Buku';
 		$this->load->view('daftarbuku', $data);
+
 	}
 }
+
+
+// hari ini saya sudah seelsai membuat member
